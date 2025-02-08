@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋, I'm Muhammad Safyan Jamil
 
-<!--
-**Safyan123/Safyan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A Seasonsed Mobile Applications developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+💡 AI & ML: OpenAI API, TensorFlow & Exploring AI-driven mobile experiences.
+
+💬 Ask me about Typescript, Javascript, ReactNative, Swift/SwiftUI, Objective-C, GraphQL,
+
+📫 How to reach me safyanjamil100@gmail.com
+
+Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/safyan-jamil/)
+
+
+Languages and Tools:
+iOS andriod reactnative figma git html5 java javascript mysql postman react redux
