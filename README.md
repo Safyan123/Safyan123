@@ -4,7 +4,7 @@
 
 •⁠  ⁠💡Currently learning AI & ML: *OpenAI API, TensorFlow & Exploring AI-driven mobile experiences*
 
-•⁠  ⁠💬 Ask me about *Typescript, Javascript, ReactNative, Swift/SwiftUI, Objective-C, GraphQL,*
+•⁠  ⁠💬 Ask me about *Typescript, Javascript, ReactNative, Swift/SwiftUI, Objective-C, GraphQL, Flutter*
 
 •⁠  ⁠📫 How to reach me *safyanjamil100@gmail.com*
 
